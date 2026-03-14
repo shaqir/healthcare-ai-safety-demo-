@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# AI assistant config
+CLAUDE.md
+AGENTS.md
+.claude/
