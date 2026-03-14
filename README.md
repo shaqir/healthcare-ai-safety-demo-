@@ -148,11 +148,11 @@ Free to use for **education, research, and demos**.
 
 ---
 
-## 🙌 Author
+## Author
 
--- SakirAli Saiyed, Student at SAIT, Integrated Artificial Intelligence.
+**Sakir Saiyed** — Senior iOS & AI Engineer
 
-Built as a **Healthcare-Safe AI Demo** using **LM Studio + React**
+Built as a **Healthcare-Safe AI Demo** using **LM Studio + React**.
 Focused on **responsible AI, safety-first design, and local privacy**.
 
 
